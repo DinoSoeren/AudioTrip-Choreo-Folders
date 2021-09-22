@@ -7,8 +7,12 @@ Bash script to automatically create sub-folders for AudioTrip custom choreos
 
 1. Click the "**Get All**" link at the top of [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSkLrlwY9o4Rx0mfkhanArNRbuRvX5acyV_DuhFTo86p-dl-dgrZfqKSn6ob-S2HIC0AhiD-pi4ItbR/pubhtml?gid=0&single=true) to download all custom AudioTrip choreos from [ATCD](https://discord.gg/3vZP5YK)
 2. Extract the `.zip` to a folder on your computer, e.g. `~/Desktop/ATCD Sept 21 Songs/`
-3. Download `move_folders.sh` to the same folder you just created with all the `.ats` and `.ogg` files
+3. Download `make_folders.sh` to the same folder you just created with all the `.ats` and `.ogg` files
 4. Open unix terminal and run `./make_folders.sh` to move all songs into their own sub-folders for easier oranization and management
+
+## Screenshot
+
+![screenshot](example-screenshot.png)
 
 ## FAQ
 
